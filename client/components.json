@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "default",
+  "rsc": false,
+  "components": {
+    "Button": {
+      "variants": ["primary", "secondary"],
+      "sizes": ["small", "medium", "large"]
+    },
+    "Input": {
+      "types": ["text", "password", "email"],
+      "sizes": ["small", "medium", "large"]
+    }
+  }
+}
